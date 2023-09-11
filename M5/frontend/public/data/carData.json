@@ -1,0 +1,490 @@
+[
+  {
+    "carType": "SUV",
+    "make": "Volkswagen",
+    "model": "Touareg",
+    "year": 2008,
+    "color": "White",
+    "price": 11690,
+    "image": "https://content.tgstatic.co.nz/photos/good/2008-volkswagen-touareg-23784372_17127390.jpg"
+  },
+  {
+    "carType": "SUV",
+    "make": "Subaru",
+    "model": "Outback",
+    "year": 2016,
+    "color": "Black",
+    "price": 18135,
+    "image": "https://content.tgstatic.co.nz/photos/good/2016-subaru-outback-23629793_16971717.jpg"
+  },
+  {
+    "carType": "SUV",
+    "make": "Nissan",
+    "model": "X-Trail",
+    "year": 2016,
+    "color": "Red",
+    "price": 18895,
+    "image": "https://content.tgstatic.co.nz/photos/good/2016-nissan-x-trail-23773186_17212608.jpg"
+  },
+  {
+    "carType": "SUV",
+    "make": "Honda",
+    "model": "CRV S",
+    "year": 2012,
+    "color": "Black",
+    "price": 13090,
+    "image": "https://content.tgstatic.co.nz/photos/good/2012-honda-crv-23578454_17062571.jpg"
+  },
+  {
+    "carType": "SUV",
+    "make": "Suzuki",
+    "model": "SX4 S-Cross",
+    "year": 2014,
+    "color": "Red",
+    "price": 10695,
+    "image": "https://content.tgstatic.co.nz/photos/good/2014-suzuki-sx4-s-cross-23811975_17218738.jpg"
+  },
+  {
+    "carType": "SUV",
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "year": 2012,
+    "color": "Black",
+    "price": 12790,
+    "image": "https://content.tgstatic.co.nz/photos/good/2012-hyundai-santa-fe-23552284_17030576.jpg"
+  },
+  {
+    "carType": "SUV",
+    "make": "Mitsubishi",
+    "model": "ASX XLS",
+    "year": 2016,
+    "color": "Blue",
+    "price": 16988,
+    "image": "https://content.tgstatic.co.nz/photos/good/2016-mitsubishi-asx-23757862_17051609.jpg"
+  },
+  {
+    "carType": "SUV",
+    "make": "Volkswagen",
+    "model": "Tiguan TSI Highline",
+    "year": 2017,
+    "color": "Silver",
+    "price": 17995,
+    "image": "https://content.tgstatic.co.nz/photos/good/2017-volkswagen-tiguan-23773782_17272294.jpg"
+  },
+  {
+    "carType": "SUV",
+    "make": "Holden",
+    "model": "Captiva",
+    "year": 2018,
+    "color": "Grey",
+    "price": 19990,
+    "image": "https://content.tgstatic.co.nz/photos/good/2018-holden-captiva-7-23565258_16875616.jpg"
+  },
+  {
+    "carType": "SUV",
+    "make": "Ford",
+    "model": "Kuga",
+    "year": 2014,
+    "color": "Grey",
+    "price": 16695,
+    "image": "https://content.tgstatic.co.nz/photos/good/2014-ford-kuga-23782430_17138602.jpg"
+  },
+
+  {
+    "carType": "Hatchback",
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 2017,
+    "color": "Red",
+    "price": 16090,
+    "image": "https://content.tgstatic.co.nz/photos/good/2017-toyota-corolla-23622913_17060510.jpg"
+  },
+  {
+    "carType": "Hatchback",
+    "make": "Toyota",
+    "model": "C-HR",
+    "year": 2019,
+    "color": "Yellow",
+    "price": 26990,
+    "image": "https://content.tgstatic.co.nz/photos/good/2019-toyota-c-hr-23502551_16864915.jpg"
+  },
+  {
+    "carType": "Hatchback",
+    "make": "Toyota",
+    "model": "Aqua",
+    "year": 2014,
+    "color": "Blue",
+    "price": 13200,
+    "image": "https://content.tgstatic.co.nz/photos/good/2014-toyota-aqua-23518253_16843390.jpg"
+  },
+  {
+    "carType": "Hatchback",
+    "make": "Toyota",
+    "model": "Aqua",
+    "year": 2014,
+    "color": "Yellow",
+    "price": 12450,
+    "image": "https://content.tgstatic.co.nz/photos/good/2014-toyota-aqua-23462568_16825967.jpg"
+  },
+  {
+    "carType": "Hatchback",
+    "make": "Toyota",
+    "model": "Aqua",
+    "year": 2013,
+    "color": "Grey",
+    "price": 12399,
+    "image": "https://content.tgstatic.co.nz/photos/good/2013-toyota-aqua-23777222_17103441.jpg"
+  },
+  {
+    "carType": "Hatchback",
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 2012,
+    "color": "White",
+    "price": 12585,
+    "image": "https://content.tgstatic.co.nz/photos/good/2012-toyota-corolla-23774046_17093701.jpg"
+  },
+  {
+    "carType": "Hatchback",
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 2016,
+    "color": "Silver",
+    "price": 12885,
+    "image": "https://content.tgstatic.co.nz/photos/good/2016-toyota-corolla-23620989_16943363.jpg"
+  },
+  {
+    "carType": "Hatchback",
+    "make": "Toyota",
+    "model": "Prius",
+    "year": 2015,
+    "color": "Red",
+    "price": 18200,
+    "image": "https://content.tgstatic.co.nz/photos/good/2015-toyota-prius-23518118_16881774.jpg"
+  },
+  {
+    "carType": "Hatchback",
+    "make": "KIA",
+    "model": "Picanto",
+    "year": 2016,
+    "color": "Red",
+    "price": 14150,
+    "image": "https://content.tgstatic.co.nz/photos/good/2016-kia-picanto-23630776_17162379.jpg"
+  },
+  {
+    "carType": "Hatchback",
+    "make": "Lexus",
+    "model": "CT200H",
+    "year": 2011,
+    "color": "Silver",
+    "price": 19450,
+    "image": "https://content.tgstatic.co.nz/photos/good/2011-lexus-ct200h-23462506_16779437.jpg"
+  },
+  {
+    "carType": "Hatchback",
+    "make": "Suzuki",
+    "model": "Swift",
+    "year": 2007,
+    "color": "Yellow",
+    "price": 7720,
+    "image": "https://content.tgstatic.co.nz/photos/good/2007-suzuki-swift-23841085_17446662.jpg"
+  },
+  {
+    "carType": "Hatchback",
+    "make": "Honda",
+    "model": "FIT",
+    "year": 2013,
+    "color": "Blue",
+    "price": 13450,
+    "image": "https://content.tgstatic.co.nz/photos/good/2013-honda-fit-23442487_16848343.jpg"
+  },
+  {
+    "carType": "Hatchback",
+    "make": "Honda",
+    "model": "CR-Z",
+    "year": 2010,
+    "color": "Red",
+    "price": 10980,
+    "image": "https://content.tgstatic.co.nz/photos/good/2010-honda-cr-z-23411304_16804174.jpg"
+  },
+  {
+    "carType": "Hatchback",
+    "make": "Holden",
+    "model": "Cruze",
+    "year": 2017,
+    "color": "Silver",
+    "price": 14085,
+    "image": "https://content.tgstatic.co.nz/photos/good/2017-holden-cruze-23584890_17069708.jpg"
+  },
+  {
+    "carType": "Sedan",
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 2015,
+    "color": "Blue",
+    "price": 14985,
+    "image": "https://content.tgstatic.co.nz/photos/good/2015-toyota-corolla-23651249_17034123.jpg"
+  },
+  {
+    "carType": "Sedan",
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 2016,
+    "color": "Silver",
+    "price": 14395,
+    "image": "https://content.tgstatic.co.nz/photos/good/2016-toyota-corolla-23757741_17099055.jpg"
+  },
+  {
+    "carType": "Sedan",
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2012,
+    "color": "Silver",
+    "price": 14190,
+    "image": "https://content.tgstatic.co.nz/photos/good/2012-toyota-camry-23641934_17002165.jpg"
+  },
+  {
+    "carType": "Sedan",
+    "make": "Mercedes-Benz",
+    "model": "CLA180",
+    "year": 2014,
+    "color": "Silver",
+    "price": 15935,
+    "image": "https://content.tgstatic.co.nz/photos/good/2014-mercedes-benz-cla180-23631810_17014139.jpg"
+  },
+  {
+    "carType": "Sedan",
+    "make": "Ford",
+    "model": "Falcon",
+    "year": 2003,
+    "color": "Blue",
+    "price": 18390,
+    "image": "https://content.tgstatic.co.nz/photos/good/2003-ford-falcon-23575583_16860351.jpg"
+  },
+  {
+    "carType": "Sedan",
+    "make": "Lexus",
+    "model": "HS250H",
+    "year": 2010,
+    "color": "White",
+    "price": 10980,
+    "image": "https://content.tgstatic.co.nz/photos/good/2010-lexus-hs250h-23411239_16815260.jpg"
+  },
+  {
+    "carType": "Sedan",
+    "make": "Holden",
+    "model": "Commodore",
+    "year": 2016,
+    "color": "White",
+    "price": 18695,
+    "image": "https://content.tgstatic.co.nz/photos/good/2016-holden-commodore-22773701_15574331.jpg"
+  },
+  {
+    "carType": "Sedan",
+    "make": "Mazda",
+    "model": "Axela",
+    "year": 2012,
+    "color": "Blue",
+    "price": 10450,
+    "image": "https://content.tgstatic.co.nz/photos/good/2012-mazda-axela-23629740_17079671.jpg"
+  },
+  {
+    "carType": "Sedan",
+    "make": "Mazda",
+    "model": "Axela",
+    "year": 2014,
+    "color": "Red",
+    "price": 16990,
+    "image": "https://content.tgstatic.co.nz/photos/good/2014-mazda-axela-23633209_17242908.jpg"
+  },
+  {
+    "carType": "Sedan",
+    "make": "Subaru",
+    "model": "Legacy",
+    "year": 2014,
+    "color": "Silver",
+    "price": 11570,
+    "image": "https://content.tgstatic.co.nz/photos/good/2014-subaru-legacy-23595723_16867402.jpg"
+  },
+  {
+    "carType": "Pickup Truck",
+    "make": "Mitsubishi",
+    "model": "Triton",
+    "year": 2016,
+    "color": "Red",
+    "price": 17090,
+    "image": "https://content.tgstatic.co.nz/photos/good/2016-mitsubishi-triton-23639781_17024348.jpg"
+  },
+
+  {
+    "carType": "Pickup Truck",
+    "make": "Mitsubishi",
+    "model": "Triton",
+    "year": 2012,
+    "color": "Grey",
+    "price": 19990,
+    "image": "https://content.tgstatic.co.nz/photos/good/2012-mitsubishi-triton-23623359_17229644.jpg"
+  },
+  {
+    "carType": "Pickup Truck",
+    "make": "Mitsubishi",
+    "model": "Triton",
+    "year": 2015,
+    "color": "Silver",
+    "price": 27190,
+    "image": "https://content.tgstatic.co.nz/photos/good/2015-mitsubishi-triton-21224537_16592087.jpg"
+  },
+  {
+    "carType": "Pickup Truck",
+    "make": "Nissan",
+    "model": "Navara",
+    "year": 2020,
+    "color": "Black",
+    "price": 45560,
+    "image": "https://content.tgstatic.co.nz/photos/good/2020-nissan-navara-22833077_17286403.jpg"
+  },
+  {
+    "carType": "Pickup Truck",
+    "make": "Holden",
+    "model": "Colorado",
+    "year": 2013,
+    "color": "Red",
+    "price": 21890,
+    "image": "https://content.tgstatic.co.nz/photos/good/2013-holden-colorado-23591478_16898102.jpg"
+  },
+  {
+    "carType": "Pickup Truck",
+    "make": "Holden",
+    "model": "Colorado",
+    "year": 2017,
+    "color": "Red",
+    "price": 36145,
+    "image": "https://content.tgstatic.co.nz/photos/good/2017-holden-colorado-23630366_17031391.jpg"
+  },
+  {
+    "carType": "Pickup Truck",
+    "make": "Holden",
+    "model": "Colorado",
+    "year": 2019,
+    "color": "Black",
+    "price": 29958,
+    "image": "https://content.tgstatic.co.nz/photos/good/2019-holden-colorado-23766819_17201447.jpg"
+  },
+  {
+    "carType": "Pickup Truck",
+    "make": "Mazda",
+    "model": "BT-50",
+    "year": 2014,
+    "color": "White",
+    "price": 16090,
+    "image": "https://content.tgstatic.co.nz/photos/good/2014-mazda-bt-50-23618858_17061601.jpg"
+  },
+  {
+    "carType": "Pickup Truck",
+    "make": "Ssangyong",
+    "model": "Actyon Sport",
+    "year": 2014,
+    "color": "Grey",
+    "price": 13390,
+    "image": "https://content.tgstatic.co.nz/photos/good/2014-ssangyong-actyon-sport-23614961_17090596.jpg"
+  },
+  {
+    "carType": "Pickup Truck",
+    "make": "Ssangyong",
+    "model": "Actyon Sport",
+    "year": 2017,
+    "color": "White",
+    "price": 16295,
+    "image": "https://content.tgstatic.co.nz/photos/good/2017-ssangyong-actyon-sport-23601925_16988819.jpg"
+  },
+  {
+    "carType": "Pickup Truck",
+    "make": "Ford",
+    "model": "Ranger",
+    "year": 2018,
+    "color": "White",
+    "price": 27990,
+    "image": "https://content.tgstatic.co.nz/photos/good/2018-ford-ranger-23597761_16999384.jpg"
+  },
+  {
+    "carType": "Truck",
+    "make": "UD TRUCKS",
+    "model": "MK11250",
+    "year": 2014,
+    "color": "White",
+    "price": 79000,
+    "image": "https://trcdnendpoint.azureedge.net/large/TK6176-064-M.jpg"
+  },
+  {
+    "carType": "Truck",
+    "make": "Hino",
+    "model": "700",
+    "year": 2013,
+    "color": "White",
+    "price": 120000,
+    "image": "https://trcdnendpoint.azureedge.net/large/TK5492-078-M.jpg"
+  },
+  {
+    "carType": "Truck",
+    "make": "Mercedes-Benz",
+    "model": "ACTROS",
+    "year": 2014,
+    "color": "White",
+    "price": 125000,
+    "image": "https://trcdnendpoint.azureedge.net/large/TK5706-046-M.jpg"
+  },
+  {
+    "carType": "Truck",
+    "make": "Kenworth",
+    "model": "K",
+    "year": 2018,
+    "color": "White",
+    "price": 170000,
+    "image": "https://trcdnendpoint.azureedge.net/large/TK10154-119-M.jpg"
+  },
+  {
+    "carType": "Truck",
+    "make": "FUSO",
+    "model": "Canter",
+    "year": 2014,
+    "color": "White",
+    "price": 29000,
+    "image": "https://trcdnendpoint.azureedge.net/large/TK10743-027-M.jpg"
+  },
+  {
+    "carType": "Truck",
+    "make": "FUSO",
+    "model": "Canter",
+    "year": 2013,
+    "color": "White",
+    "price": 30000,
+    "image": "https://trcdnendpoint.azureedge.net/large/TK5606-034-M.jpg"
+  },
+  {
+    "carType": "Truck",
+    "make": "Isuzu",
+    "model": "N Series",
+    "year": 2015,
+    "color": "White",
+    "price": 30000,
+    "image": "https://trcdnendpoint.azureedge.net/large/TK6533-016-M.jpg"
+  },
+  {
+    "carType": "Truck",
+    "make": "Isuzu",
+    "model": "FTR",
+    "year": 2004,
+    "color": "White",
+    "price": 79000,
+    "image": "https://trcdnendpoint.azureedge.net/large/CKB637-082-M.jpg"
+  },
+  {
+    "carType": "Truck",
+    "make": "Freightliner",
+    "model": "FRL ARGOSY",
+    "year": 2014,
+    "color": "White",
+    "price": 149000,
+    "image": "https://trcdnendpoint.azureedge.net/large/TK5699-059-M.jpg"
+  }
+]

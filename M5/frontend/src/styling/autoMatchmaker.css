@@ -1,0 +1,160 @@
+/* Turners Blue: #1A75BB; 
+Turner's Red: #B12137*/
+
+.autoMatchmaker-container {
+  color: black;
+  text-align: center;
+}
+.hero-container {
+  background-image: url("../images/blueCar.png");
+  height: 60vh;
+  width: 100%;
+  background-position: bottom;
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* opacity: 0.7; */
+  /* z-index: -1; */
+}
+.input-container {
+  background-color: #1a75bbf2;
+  height: auto;
+  width: 35vw;
+  margin: auto;
+  border-radius: 1rem;
+  padding-top: 1.75rem;
+  margin-top: 3.75rem;
+  color: white;
+  border: white solid 0.5px;
+}
+.uploaded-image {
+  width: 20rem;
+  height: auto;
+  margin-top: 1rem;
+}
+.heading-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.heart-logo {
+  height: 3rem;
+  width: 3rem;
+}
+
+input {
+  border: white solid 0.5px;
+  border-radius: 0.25rem;
+}
+button {
+  background-color: white;
+  color: #1a75bb;
+  border-radius: 0.25rem;
+  border: none;
+  padding: 0.75rem;
+  font-weight: 600;
+  cursor: pointer;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
+
+h1 {
+  color: #1a75bb;
+  font-weight: 600;
+  padding: 2rem;
+  font-size: 2rem;
+}
+h2 {
+  color: #1a75bb;
+  font-weight: 600;
+  padding: 1rem;
+  font-size: 1.5rem;
+}
+h3 {
+  color: white;
+  font-weight: 400;
+  padding-top: 0.25rem;
+  padding-bottom: 2rem;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  font-size: 1rem;
+}
+
+.result-image img {
+  max-width: 100%;
+  height: auto;
+  margin-top: 10px;
+}
+
+.blue-car {
+  object-fit: cover;
+  object-position: bottom;
+  width: 100vw;
+  height: 60vh;
+  opacity: 70%;
+}
+
+.matching-cars {
+  display: flex;
+  justify-content: space-evenly;
+  height: auto;
+  flex-wrap: wrap;
+  margin-left: 3rem;
+  margin-right: 3rem;
+  align-items: center;
+}
+
+.car-card {
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+  width: 28rem;
+  height: 10rem;
+  margin-bottom: 2rem;
+  border-radius: 0.5rem;
+  color: #1a75bb;
+  border: #1a75bb 0.2rem solid;
+  padding: 0.3rem;
+}
+.car-image {
+  object-fit: fit;
+  height: 100%;
+  width: auto;
+  border-radius: 0.5rem;
+  margin-right: 1rem;
+}
+.car-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  text-align: start;
+  font-size: 1rem;
+  font-weight: bold;
+  padding: 0.5rem;
+}
+
+.car-info span {
+  color: black;
+  padding-left: 0.3rem;
+
+  font-weight: 400;
+}
+
+.icon-container {
+  margin-top: 7rem;
+  margin-left: 1.5rem;
+  height: 2rem;
+  width: 2rem;
+}
+
+.heart-icon {
+  height: 1.5rem;
+  width: 1.5rem;
+}
+.icon-container :hover {
+  color: #b12137;
+  cursor: pointer;
+}
+.icon-container :active {
+  color: #b12137;
+  cursor: pointer;
+}

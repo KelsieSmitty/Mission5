@@ -1,0 +1,25 @@
+version: "3"
+services:
+  my-mongodb:
+    image: mongo:latest
+    container_name: my-mongodb
+    ports:
+      - "27017:27017"
+  my-node-app:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: my-node-app
+    ports:
+      - "4000:4000"
+    depends_on:
+      - my-mongodb
+  my-react-frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: my-react-frontend
+    ports:
+      - "3000:3000"
+    depends_on:
+      - my-node-app

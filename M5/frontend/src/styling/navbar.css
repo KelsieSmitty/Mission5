@@ -1,0 +1,39 @@
+/* Turners Blue: #1A75BB; 
+Turner's Red: #B12137*/
+
+.navigation {
+  height: 6rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  position: relative;
+  padding: 0.5rem 1.5rem;
+  background-color: #fff;
+  color: black;
+  border-bottom: #1a75bb solid 30px;
+}
+.logo {
+  height: 4rem;
+  padding: 0;
+  margin: 0;
+  cursor: pointer;
+}
+.navigation-menu {
+  margin-left: auto;
+  font-size: large;
+}
+.navigation-menu ul {
+  display: flex;
+  padding: 0;
+}
+.navigation-menu li {
+  list-style-type: none;
+  margin: 0 1rem;
+}
+.navigation-menu li a {
+  text-decoration: none;
+  display: block;
+  width: 100%;
+  color: #1a75bb;
+  font-weight: 600;
+}

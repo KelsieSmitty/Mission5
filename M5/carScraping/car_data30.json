@@ -1,0 +1,602 @@
+[
+  {
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 2014,
+    "price": 12990
+  },
+  {
+    "make": "Toyota",
+    "model": "Yaris",
+    "year": 2017,
+    "price": 11245
+  },
+  {
+    "make": "Suzuki",
+    "model": "Swift",
+    "year": 2018,
+    "price": 19200
+  },
+  {
+    "make": "Toyota",
+    "model": "Harrier",
+    "year": 2006,
+    "price": 10390
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Mirage",
+    "year": 2014,
+    "price": 11890
+  },
+  {
+    "make": "Mini",
+    "model": "Cooper",
+    "year": 2011,
+    "price": 10590
+  },
+  {
+    "make": "Honda",
+    "model": "Grace",
+    "year": 2017,
+    "price": 18810
+  },
+  {
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 2014,
+    "price": 13200
+  },
+  {
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 2012,
+    "price": 11685
+  },
+  {
+    "make": "Suzuki",
+    "model": "SX4",
+    "year": 2012,
+    "price": 13395
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Outlander",
+    "year": 2013,
+    "price": 15395
+  },
+  {
+    "make": "Toyota",
+    "model": "Landcruiser Prado",
+    "year": 1996,
+    "price": 12990
+  },
+  {
+    "make": "Holden",
+    "model": "Astra",
+    "year": 2018,
+    "price": 15790
+  },
+  {
+    "make": "Nissan",
+    "model": "Note",
+    "year": 2018,
+    "price": 14400
+  },
+  {
+    "make": "Nissan",
+    "model": "X-Trail",
+    "year": 2016,
+    "price": 17885
+  },
+  {
+    "make": "Holden",
+    "model": "Cruze",
+    "year": 2017,
+    "price": 11485
+  },
+  {
+    "make": "Toyota",
+    "model": "Prius",
+    "year": 2012,
+    "price": 13300
+  },
+  {
+    "make": "MG",
+    "model": "ZS",
+    "year": 2018,
+    "price": 17290
+  },
+  {
+    "make": "Toyota",
+    "model": "Aqua",
+    "year": 2014,
+    "price": 12200
+  },
+  {
+    "make": "Holden",
+    "model": "Captiva 7",
+    "year": 2013,
+    "price": 10588
+  },
+  {
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 2014,
+    "price": 12990
+  },
+  {
+    "make": "Toyota",
+    "model": "Yaris",
+    "year": 2017,
+    "price": 11245
+  },
+  {
+    "make": "Suzuki",
+    "model": "Swift",
+    "year": 2018,
+    "price": 19200
+  },
+  {
+    "make": "Toyota",
+    "model": "Harrier",
+    "year": 2006,
+    "price": 10390
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Mirage",
+    "year": 2014,
+    "price": 11890
+  },
+  {
+    "make": "Mini",
+    "model": "Cooper",
+    "year": 2011,
+    "price": 10590
+  },
+  {
+    "make": "Honda",
+    "model": "Grace",
+    "year": 2017,
+    "price": 18810
+  },
+  {
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 2014,
+    "price": 13200
+  },
+  {
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 2012,
+    "price": 11685
+  },
+  {
+    "make": "Suzuki",
+    "model": "SX4",
+    "year": 2012,
+    "price": 13395
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Outlander",
+    "year": 2013,
+    "price": 15395
+  },
+  {
+    "make": "Toyota",
+    "model": "Landcruiser Prado",
+    "year": 1996,
+    "price": 12990
+  },
+  {
+    "make": "Holden",
+    "model": "Astra",
+    "year": 2018,
+    "price": 15790
+  },
+  {
+    "make": "Nissan",
+    "model": "Note",
+    "year": 2018,
+    "price": 14400
+  },
+  {
+    "make": "Nissan",
+    "model": "X-Trail",
+    "year": 2016,
+    "price": 17885
+  },
+  {
+    "make": "Holden",
+    "model": "Cruze",
+    "year": 2017,
+    "price": 11485
+  },
+  {
+    "make": "Toyota",
+    "model": "Prius",
+    "year": 2012,
+    "price": 13300
+  },
+  {
+    "make": "MG",
+    "model": "ZS",
+    "year": 2018,
+    "price": 17290
+  },
+  {
+    "make": "Toyota",
+    "model": "Aqua",
+    "year": 2014,
+    "price": 12200
+  },
+  {
+    "make": "Holden",
+    "model": "Captiva 7",
+    "year": 2013,
+    "price": 10588
+  },
+  {
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 2014,
+    "price": 12990
+  },
+  {
+    "make": "Toyota",
+    "model": "Yaris",
+    "year": 2017,
+    "price": 11245
+  },
+  {
+    "make": "Suzuki",
+    "model": "Swift",
+    "year": 2018,
+    "price": 19200
+  },
+  {
+    "make": "Toyota",
+    "model": "Harrier",
+    "year": 2006,
+    "price": 10390
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Mirage",
+    "year": 2014,
+    "price": 11890
+  },
+  {
+    "make": "Mini",
+    "model": "Cooper",
+    "year": 2011,
+    "price": 10590
+  },
+  {
+    "make": "Honda",
+    "model": "Grace",
+    "year": 2017,
+    "price": 18810
+  },
+  {
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 2014,
+    "price": 13200
+  },
+  {
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 2012,
+    "price": 11685
+  },
+  {
+    "make": "Suzuki",
+    "model": "SX4",
+    "year": 2012,
+    "price": 13395
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Outlander",
+    "year": 2013,
+    "price": 15395
+  },
+  {
+    "make": "Toyota",
+    "model": "Landcruiser Prado",
+    "year": 1996,
+    "price": 12990
+  },
+  {
+    "make": "Holden",
+    "model": "Astra",
+    "year": 2018,
+    "price": 15790
+  },
+  {
+    "make": "Nissan",
+    "model": "Note",
+    "year": 2018,
+    "price": 14400
+  },
+  {
+    "make": "Nissan",
+    "model": "X-Trail",
+    "year": 2016,
+    "price": 17885
+  },
+  {
+    "make": "Holden",
+    "model": "Cruze",
+    "year": 2017,
+    "price": 11485
+  },
+  {
+    "make": "Toyota",
+    "model": "Prius",
+    "year": 2012,
+    "price": 13300
+  },
+  {
+    "make": "MG",
+    "model": "ZS",
+    "year": 2018,
+    "price": 17290
+  },
+  {
+    "make": "Toyota",
+    "model": "Aqua",
+    "year": 2014,
+    "price": 12200
+  },
+  {
+    "make": "Holden",
+    "model": "Captiva 7",
+    "year": 2013,
+    "price": 10588
+  },
+  {
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 2014,
+    "price": 12990
+  },
+  {
+    "make": "Toyota",
+    "model": "Yaris",
+    "year": 2017,
+    "price": 11245
+  },
+  {
+    "make": "Suzuki",
+    "model": "Swift",
+    "year": 2018,
+    "price": 19200
+  },
+  {
+    "make": "Toyota",
+    "model": "Harrier",
+    "year": 2006,
+    "price": 10390
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Mirage",
+    "year": 2014,
+    "price": 11890
+  },
+  {
+    "make": "Mini",
+    "model": "Cooper",
+    "year": 2011,
+    "price": 10590
+  },
+  {
+    "make": "Honda",
+    "model": "Grace",
+    "year": 2017,
+    "price": 18810
+  },
+  {
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 2014,
+    "price": 13200
+  },
+  {
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 2012,
+    "price": 11685
+  },
+  {
+    "make": "Suzuki",
+    "model": "SX4",
+    "year": 2012,
+    "price": 13395
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Outlander",
+    "year": 2013,
+    "price": 15395
+  },
+  {
+    "make": "Toyota",
+    "model": "Landcruiser Prado",
+    "year": 1996,
+    "price": 12990
+  },
+  {
+    "make": "Holden",
+    "model": "Astra",
+    "year": 2018,
+    "price": 15790
+  },
+  {
+    "make": "Nissan",
+    "model": "Note",
+    "year": 2018,
+    "price": 14400
+  },
+  {
+    "make": "Nissan",
+    "model": "X-Trail",
+    "year": 2016,
+    "price": 17885
+  },
+  {
+    "make": "Holden",
+    "model": "Cruze",
+    "year": 2017,
+    "price": 11485
+  },
+  {
+    "make": "Toyota",
+    "model": "Prius",
+    "year": 2012,
+    "price": 13300
+  },
+  {
+    "make": "MG",
+    "model": "ZS",
+    "year": 2018,
+    "price": 17290
+  },
+  {
+    "make": "Toyota",
+    "model": "Aqua",
+    "year": 2014,
+    "price": 12200
+  },
+  {
+    "make": "Holden",
+    "model": "Captiva 7",
+    "year": 2013,
+    "price": 10588
+  },
+  {
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 2014,
+    "price": 12990
+  },
+  {
+    "make": "Toyota",
+    "model": "Yaris",
+    "year": 2017,
+    "price": 11245
+  },
+  {
+    "make": "Suzuki",
+    "model": "Swift",
+    "year": 2018,
+    "price": 19200
+  },
+  {
+    "make": "Toyota",
+    "model": "Harrier",
+    "year": 2006,
+    "price": 10390
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Mirage",
+    "year": 2014,
+    "price": 11890
+  },
+  {
+    "make": "Mini",
+    "model": "Cooper",
+    "year": 2011,
+    "price": 10590
+  },
+  {
+    "make": "Honda",
+    "model": "Grace",
+    "year": 2017,
+    "price": 18810
+  },
+  {
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 2014,
+    "price": 13200
+  },
+  {
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 2012,
+    "price": 11685
+  },
+  {
+    "make": "Suzuki",
+    "model": "SX4",
+    "year": 2012,
+    "price": 13395
+  },
+  {
+    "make": "Mitsubishi",
+    "model": "Outlander",
+    "year": 2013,
+    "price": 15395
+  },
+  {
+    "make": "Toyota",
+    "model": "Landcruiser Prado",
+    "year": 1996,
+    "price": 12990
+  },
+  {
+    "make": "Holden",
+    "model": "Astra",
+    "year": 2018,
+    "price": 15790
+  },
+  {
+    "make": "Nissan",
+    "model": "Note",
+    "year": 2018,
+    "price": 14400
+  },
+  {
+    "make": "Nissan",
+    "model": "X-Trail",
+    "year": 2016,
+    "price": 17885
+  },
+  {
+    "make": "Holden",
+    "model": "Cruze",
+    "year": 2017,
+    "price": 11485
+  },
+  {
+    "make": "Toyota",
+    "model": "Prius",
+    "year": 2012,
+    "price": 13300
+  },
+  {
+    "make": "MG",
+    "model": "ZS",
+    "year": 2018,
+    "price": 17290
+  },
+  {
+    "make": "Toyota",
+    "model": "Aqua",
+    "year": 2014,
+    "price": 12200
+  },
+  {
+    "make": "Holden",
+    "model": "Captiva 7",
+    "year": 2013,
+    "price": 10588
+  }
+]
