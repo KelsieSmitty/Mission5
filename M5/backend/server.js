@@ -104,7 +104,6 @@ app.post("/api", async (req, res) => {
       .status(500)
       .json({ error: "An error occurred while making the prediction." });
   }
-  console.log(carType, carColor);
 });
 
 app.get("/api/cars", async (req, res) => {
