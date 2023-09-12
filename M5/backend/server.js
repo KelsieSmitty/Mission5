@@ -4,7 +4,6 @@ import axios from "axios";
 import dotenv from "dotenv";
 import mongoose from "mongoose";
 import _ from "lodash";
-const { capitalize } = _;
 
 dotenv.config();
 
